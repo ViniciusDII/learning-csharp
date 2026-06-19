@@ -1,0 +1,14 @@
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\02-variables\obj\Debug\net10.0\02-variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\02-variables\obj\Debug\net10.0\02-variables.AssemblyInfoInputs.cache
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\02-variables\obj\Debug\net10.0\02-variables.AssemblyInfo.cs
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\02-variables\obj\Debug\net10.0\02-variables.csproj.CoreCompileInputs.cache
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\02-variables\bin\Debug\net10.0\02-variables.exe
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\02-variables\bin\Debug\net10.0\02-variables.deps.json
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\02-variables\bin\Debug\net10.0\02-variables.runtimeconfig.json
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\02-variables\bin\Debug\net10.0\02-variables.dll
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\02-variables\bin\Debug\net10.0\02-variables.pdb
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\02-variables\obj\Debug\net10.0\02-variables.dll
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\02-variables\obj\Debug\net10.0\refint\02-variables.dll
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\02-variables\obj\Debug\net10.0\02-variables.pdb
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\02-variables\obj\Debug\net10.0\02-variables.genruntimeconfig.cache
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\02-variables\obj\Debug\net10.0\ref\02-variables.dll

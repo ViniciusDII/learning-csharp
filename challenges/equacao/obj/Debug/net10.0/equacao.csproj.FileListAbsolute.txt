@@ -1,0 +1,14 @@
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\challenges\equacao\bin\Debug\net10.0\equacao.exe
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\challenges\equacao\bin\Debug\net10.0\equacao.deps.json
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\challenges\equacao\bin\Debug\net10.0\equacao.runtimeconfig.json
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\challenges\equacao\bin\Debug\net10.0\equacao.dll
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\challenges\equacao\bin\Debug\net10.0\equacao.pdb
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\challenges\equacao\obj\Debug\net10.0\equacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\challenges\equacao\obj\Debug\net10.0\equacao.AssemblyInfoInputs.cache
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\challenges\equacao\obj\Debug\net10.0\equacao.AssemblyInfo.cs
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\challenges\equacao\obj\Debug\net10.0\equacao.csproj.CoreCompileInputs.cache
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\challenges\equacao\obj\Debug\net10.0\equacao.dll
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\challenges\equacao\obj\Debug\net10.0\refint\equacao.dll
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\challenges\equacao\obj\Debug\net10.0\equacao.pdb
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\challenges\equacao\obj\Debug\net10.0\equacao.genruntimeconfig.cache
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\challenges\equacao\obj\Debug\net10.0\ref\equacao.dll

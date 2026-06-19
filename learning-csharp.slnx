@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="01-hello/01-hello.csproj" />
+  <Project Path="02-variables/02-variables.csproj" />
+  <Folder Name="/challenges/">
+    <Project Path="challenges/equacao/equacao.csproj" />
+    <Project Path="challenges/Calculador_Resto/Resto_da_Divisao.csproj" />
+  </Folder>
+  <Folder Name="/exercises/">
+    <Project Path="exercises/multiplicacao/02b-calculo.csproj" />
+    <Project Path="exercises/RPG/ConsoleApp1/ConsoleApp1.csproj" />
+    <Project Path="exercises/RPG_Character/RPG_Character.csproj" />
+    <Project Path="exercises/RPG_Quests/RPG_Quests.csproj" />
+    <Project Path="exercises/Strings/Strings.csproj" />
+    <Project Path="exercises/tabuada_atividade/tabuada_atividade.csproj" />
+  </Folder>
+</Solution>
+  

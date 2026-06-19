@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "RPG_Quests/1.0.0": {
+        "runtime": {
+          "RPG_Quests.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RPG_Quests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

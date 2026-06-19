@@ -1,0 +1,14 @@
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\exercises\tabuada_atividade\bin\Debug\net10.0\tabuada_atividade.exe
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\exercises\tabuada_atividade\bin\Debug\net10.0\tabuada_atividade.deps.json
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\exercises\tabuada_atividade\bin\Debug\net10.0\tabuada_atividade.runtimeconfig.json
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\exercises\tabuada_atividade\bin\Debug\net10.0\tabuada_atividade.dll
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\exercises\tabuada_atividade\bin\Debug\net10.0\tabuada_atividade.pdb
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\exercises\tabuada_atividade\obj\Debug\net10.0\tabuada_atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\exercises\tabuada_atividade\obj\Debug\net10.0\tabuada_atividade.AssemblyInfoInputs.cache
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\exercises\tabuada_atividade\obj\Debug\net10.0\tabuada_atividade.AssemblyInfo.cs
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\exercises\tabuada_atividade\obj\Debug\net10.0\tabuada_atividade.csproj.CoreCompileInputs.cache
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\exercises\tabuada_atividade\obj\Debug\net10.0\tabuada_atividade.dll
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\exercises\tabuada_atividade\obj\Debug\net10.0\refint\tabuada_atividade.dll
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\exercises\tabuada_atividade\obj\Debug\net10.0\tabuada_atividade.pdb
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\exercises\tabuada_atividade\obj\Debug\net10.0\tabuada_atividade.genruntimeconfig.cache
+C:\Users\vinicius_Cassio\Documents\CURSO UNITY 6\learning-csharp\exercises\tabuada_atividade\obj\Debug\net10.0\ref\tabuada_atividade.dll
