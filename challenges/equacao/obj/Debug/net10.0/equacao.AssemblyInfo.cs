@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("equacao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dcc9168372a9d50009bde36e3cbb583a133f746")]
 [assembly: System.Reflection.AssemblyProductAttribute("equacao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("equacao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
